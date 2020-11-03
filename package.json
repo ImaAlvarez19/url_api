@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.7.1",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.3.0",
+    "shortid": "^2.2.16",
+    "valid-url": "^1.0.9"
+  }
+}
